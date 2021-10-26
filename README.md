@@ -1,2 +1,2 @@
-# PiratesInvasion
-pirates invasion game
+# Invasión pirata
+Juego invasión pirata
